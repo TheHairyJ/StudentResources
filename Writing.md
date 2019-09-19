@@ -1,6 +1,8 @@
 # Research Project Resources
 ## Research
 - **Academic**
+  - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
+  - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
   - Several online rankings of cybersecurity conferences and journals. Very useful to identify current research trends and influential pieces of work. 
     - Guofei Gu's Computer Security Conference Ranking and Statistic - [Access Here](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
     - Jianying Zhou's Top Cyber Security Conferences Ranking (2018) - [Access Here](http://jianying.space/conference-ranking.html)
@@ -132,5 +134,5 @@ Thank you for your suggestions! If added you will be added to the acknowledement
 
 - [*Jamie O'Hare*](https://twitter.com/TheHairyJ), Abertay University
 - [*Rich Macfarlane*](https://twitter.com/rjmacfarlane), Edinburgh Napier University
-- [*Hanan Hidy*](https://hananhindy.com/home), Abertay University
+- [*Hanan Hindy*](https://hananhindy.com/home), Abertay University
 - [*Mikey*](https://twitter.com/0xmachos)
