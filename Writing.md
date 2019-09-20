@@ -10,10 +10,10 @@
       - MiYaJi's Labratory Conference Ranking list - [Access Here](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/announce/ranking.html)
     
   - **Computing**
-    - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
-    - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
+    - You may require to stray into more generaic computer science literature. Using these rankings may steer you towards more reputable work.
+      - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
+      - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
   
-    
 - **Non-academic**
   - Outside academia cybersecurity professionals document a whole host of different concepts and ideas.
   - Be apprehensive in adopting or adapting the methodologies found below as they may not be based in academic literature.
@@ -28,11 +28,13 @@
   - Google it!
     - Google Scholar - [Access Here](https://scholar.google.co.uk)
     - Microsoft Academic - [Access Here](https://academic.microsoft.com)
+    - Arxiv Sanity Preserver - [Access Here](http://arxiv-sanity.com)
 
 - **Misc.**
   - Additional Materials
     - Research Methods for Cyber Security - [Access Here](https://www.elsevier.com/books/research-methods-for-cyber-security/edgar/978-0-12-805349-2)
     - Thesis Whisperer's guide to picking the right topic - [Access Here](https://thesiswhisperer.com/2010/10/13/5-ways-to-know-you-have-the-right-thesis-topic/)
+    - DIY's Fast Idea Generator - [Access Here](https://diytoolkit.org/tools/fast-idea-generator/)
 
 ## Writing
 - **Spelling, Grammar and Phrases**
@@ -47,6 +49,12 @@
     - University of Edinburgh's repository of directive words - [Access Here](http://www.docs.hss.ed.ac.uk/iad/Student_resources/Writing/IAD_directive_words_CC_2018.pdf)
     - Instruction verbs in essay questions - [Access Here](https://www.kent.ac.uk/ai/ask/documents/step_1_Instruction_verbs.pdf)
     - SANS guide to brevity - [Access Here](https://twitter.com/likethecoins/status/1099013747849527296)
+    - Which vs. That: How to Choose - [Access Here](https://www.grammarly.com/blog/which-vs-that/)
+    - cut_the_crap.py - [Access Here](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html)
+    - Hemingway App - [Access Here](https://hemingwayapp.com)
+    - ProseLint: A linter for prose - [Access Here](http://proselint.com)
+    
+    
 
 - **Academic Research Writing**
   - Resources realted to the specifics of research writing.
@@ -57,6 +65,7 @@
     - University of New England's Literature Review Guide - [Access Here](https://www.une.edu.au/__data/assets/pdf_file/0018/12177/WE_Writing-a-literature-review.pdf)
     - Queensland University of Technology's writing a literature review guide - [Access Here](https://www.citewrite.qut.edu.au/write/litreview.jsp)
     - Purdue University's Engineering Project Methodology/Implementation Exemplar - [Access Here](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_engineering/engineering_project_documentation/index.html)
+    - Communicating Statistical Results - [Access Here](https://www.stat.colostate.edu/~jah/teach/st540/write.pdf)
     - Thesis Whisperer's guide to starting your discussion chapter - [Access Here](https://thesiswhisperer.com/2012/01/23/how-do-i-start-my-discussion-chapter/)
     - Thesis Whisperer's guide to writing your discussion chapter - [Access Here](https://thesiswhisperer.com/2016/04/20/the-difficult-discussion-chapter/)
     - Oxford Brookes' guide to writing Introductions and Conclusions - [Access Here](https://www.brookes.ac.uk/Documents/Students/Upgrade/Study-skills/LC_worksheet_intros_concl/)
@@ -79,6 +88,14 @@
     - RMIT's Writing examples - [Access Here](https://emedia.rmit.edu.au/learninglab/content/writing)
     - University of Edinburgh Institute for Academic Development - [Access Here](https://www.ed.ac.uk/institute-academic-development)
     - Newcastle University's Writing Development Centre - [Access Here](https://www.ncl.ac.uk/library/subject-support/wdc/)
+    - Tips for Writing Outstanding Scientific Figure Legends - [Access Here](http://www.biosciencewriters.com/Tips-for-Writing-Outstanding-Scientific-Figure-Legends.aspx)
+    - Ten Tips for Writing Mathematical Proofs - [Access Here](http://www.ms.uky.edu/~kott/proof_help.pdf)
+    - Ten simple rules for structuring papers - [Access Here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+    - Writing a scientific paper, step by painful step - [Access Here](http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
+    - MIT’s Department of Biological Engineering Communication Fellows' CommKit - [Access Here](https://mitcommlab.mit.edu/be/use-the-commkit/)
+    - Deadly Sins of the Modern Data Scientist - [Access Here](https://psu-psychology.github.io/Psych-Grad-Resources/deadly_sins.html)
+    
+    
 
 ## Management
 
@@ -94,16 +111,31 @@
     - Box - [Access Here](https://www.box.com/en-gb/home)
     - GitHub - [Access Here](https://github.com)
 
-- **Referencing**
+- **Bookmarks and References**
+  - Doesn't generate references but useful for herding links not related to your paper
+    - Pinboard - [Access Here](https://pinboard.in)
   - Keeping track of your biblography youself is like herding cats, use a reference manager instead!
+    - JabRef - [Access Here](http://www.jabref.org)
     - Zotero - [Access Here](https://www.zotero.org)
     - Mendeley - [Access Here](https://www.mendeley.com/?interaction_required=true)
     - Cite This For Me - [Access Here](http://www.citethisforme.com)
     - Citation Machine - [Access Here](http://www.citationmachine.net)
 
-- **Bookmarking**
-  - Doesn't generate references but useful for herding links not related to your paper
-    - Pinboard - [Access Here](https://pinboard.in)
+- **Mind Maps**
+  - Make your brain dumps appealing!
+    - Coggle: Simple Collaborative Mind Maps & Flow Charts - [Access Here](https://coggle.it/?lang=en-GB)
+    - Scapple - [Access Here](https://www.literatureandlatte.com/scapple/overview)
+    - GroupMap - [Access Here](https://www.groupmap.com)
+    
+  
+- **Time Management**
+  - Tick Tock. Tick Tock. Tick Tock.
+    - Trello - [Access Here](https://trello.com/en-GB)
+    - Germ.io - [Access Here](https://germ.io)
+    
+    
+
+## Further Resources
 
 - **Data Visualisation**
   - Do your data a favour and present it correctly!
@@ -111,14 +143,26 @@
     - The Data Visualation Catalogue - [Access Here](https://datavizcatalogue.com)
     - Latex/HTML/Markdown Table Generator - [Access Here](http://tablesgenerator.com)
     - ColorBewer 2.0 - [Access Here](http://colorbrewer2.org)
-
-
-## Further Resources
+    - Paletton - [Access Here](http://paletton.com)
+    - Coolors.co: The super fast color schemes generator! - [Access Here](https://coolors.co)
+    - Multiple Views: Visualisation Research Explained - [Access Here](https://medium.com/multiple-views-visualization-research-explained)
+    - Junk Charts - [Access Here](https://junkcharts.typepad.com)
+    - Eagereyes - [Access Here](https://eagereyes.org)
+    - Lucidchart - [Access Here](https://www.lucidchart.com/pages/)
+  
+- **Topology Diagrams**
+  - Show the reader your network!
+    - Draw.io - [Access Here](https://draw.io)
+    - Creately - [Access Here](https://creately.com)
+    - Gliffy - [Access Here](https://www.gliffy.com)
+    
 
 - **Poster Presentation**
   - A good project deserves a good poster!
     - Thesis Whisperer's 5 ways to poster = fail - [Access Here](https://thesiswhisperer.com/2011/05/19/5-ways-to-poster-fail/)
     - #BetterPoster - [Access Here](https://twitter.com/mikemorrison/status/1110191245035479041?lang=en)
+    - Designing conference posters - [Access Here](https://colinpurrington.com/tips/poster-design/)
+    - 
 
 ## Contributions
 
