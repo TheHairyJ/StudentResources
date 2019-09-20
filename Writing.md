@@ -1,14 +1,18 @@
 # Research Project Resources
 ## Research
 - **Academic**
-  - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
-  - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
-  - Several online rankings of cybersecurity conferences and journals. Very useful to identify current research trends and influential pieces of work. 
-    - Guofei Gu's Computer Security Conference Ranking and Statistic - [Access Here](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
-    - Jianying Zhou's Top Cyber Security Conferences Ranking (2018) - [Access Here](http://jianying.space/conference-ranking.html)
-    - Guide2Research's Top Conferences for Computer Security and Cryptography - [Access Here](http://www.guide2research.com/topconf/computer-security-cryptography)
-    - A Security Conference Ranking compiled from Microsoft Academic search engine - [Access Here](http://homepages.cs.ncl.ac.uk/changyu.dong/ranking.html)
-    - MiYaJi's Labratory Conference Ranking list - [Access Here](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/announce/ranking.html)
+  - **Cybersecurity**
+    - Several online rankings of cybersecurity conferences and journals. Very useful to identify current research trends and influential pieces of work. 
+      - Guofei Gu's Computer Security Conference Ranking and Statistic - [Access Here](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
+      - Jianying Zhou's Top Cyber Security Conferences Ranking (2018) - [Access Here](http://jianying.space/conference-ranking.html)
+      - Guide2Research's Top Conferences for Computer Security and Cryptography - [Access Here](http://www.guide2research.com/topconf/computer-security-cryptography)
+      - A Security Conference Ranking compiled from Microsoft Academic search engine - [Access Here](http://homepages.cs.ncl.ac.uk/changyu.dong/ranking.html)
+      - MiYaJi's Labratory Conference Ranking list - [Access Here](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/announce/ranking.html)
+    
+  - **Computing**
+    - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
+    - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
+  
     
 - **Non-academic**
   - Outside academia cybersecurity professionals document a whole host of different concepts and ideas.
