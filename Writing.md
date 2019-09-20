@@ -162,7 +162,6 @@
     - Thesis Whisperer's 5 ways to poster = fail - [Access Here](https://thesiswhisperer.com/2011/05/19/5-ways-to-poster-fail/)
     - #BetterPoster - [Access Here](https://twitter.com/mikemorrison/status/1110191245035479041?lang=en)
     - Designing conference posters - [Access Here](https://colinpurrington.com/tips/poster-design/)
-    - 
 
 ## Contributions
 
