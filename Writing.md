@@ -10,7 +10,7 @@
       - MiYaJi's Labratory Conference Ranking list - [Access Here](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/announce/ranking.html)
     
   - **Computing**
-    - You may require to stray into more generaic computer science literature. Using these rankings may steer you towards more reputable work.
+    - You may require to stray into more generic computer science literature. Using these rankings may steer you towards more reputable work.
       - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
       - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
   
