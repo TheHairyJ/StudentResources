@@ -26,7 +26,7 @@
 
 - **Search Engines**
   - Google it!
-    - Google Scholar - [Access Here](https://scholar.google.co.uk)
+    - Google Scholar - [Access Here](https://scholar.google.co.uk) - Remember to add your own libary integration - [Access Here](https://scholar.google.co.uk/scholar_settings#2)
     - Microsoft Academic - [Access Here](https://academic.microsoft.com)
     - Arxiv Sanity Preserver - [Access Here](http://arxiv-sanity.com)
 
