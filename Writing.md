@@ -26,7 +26,8 @@
 
 - **Search Engines**
   - Google it!
-    - Google Scholar - [Access Here](https://scholar.google.co.uk) - Remember to add your own libary integration - [Access Here](https://scholar.google.co.uk/scholar_settings#2)
+    - Google Scholar - [Access Here](https://scholar.google.co.uk) 
+    	- Add your own libary integration to Google Scholar - [Access Here](https://scholar.google.co.uk/scholar_settings#2)
     - Microsoft Academic - [Access Here](https://academic.microsoft.com)
     - Arxiv Sanity Preserver - [Access Here](http://arxiv-sanity.com)
 
@@ -149,6 +150,8 @@
     - Junk Charts - [Access Here](https://junkcharts.typepad.com)
     - Eagereyes - [Access Here](https://eagereyes.org)
     - Lucidchart - [Access Here](https://www.lucidchart.com/pages/)
+    - Data to Viz - [Access Here](https://www.data-to-viz.com/)
+    - R Graph Gallery - [Access Here](https://www.r-graph-gallery.com/)
   
 - **Topology Diagrams**
   - Show the reader your network!
@@ -183,3 +186,4 @@ Thank you for your suggestions! If added you will be added to the acknowledement
 - [*Rich Macfarlane*](https://twitter.com/rjmacfarlane), Edinburgh Napier University
 - [*Hanan Hindy*](https://hananhindy.com/home), Abertay University
 - [*Mikey*](https://twitter.com/0xmachos)
+- [*Scott*](https://github.com/SCOTTLB)
