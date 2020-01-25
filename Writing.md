@@ -95,6 +95,8 @@
     - Writing a scientific paper, step by painful step - [Access Here](http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
     - MIT’s Department of Biological Engineering Communication Fellows' CommKit - [Access Here](https://mitcommlab.mit.edu/be/use-the-commkit/)
     - Deadly Sins of the Modern Data Scientist - [Access Here](https://psu-psychology.github.io/Psych-Grad-Resources/deadly_sins.html)
+    - So, thus, therefore, and henice in English - [Access Here](https://jakubmarian.com/so-thus-therefore-and-hence-in-english/)
+    - Criteria - singular or plural - [Access Here](https://jakubmarian.com/criteria-singular-or-plural/)
     
     
 
