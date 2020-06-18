@@ -54,6 +54,7 @@
     - cut_the_crap.py - [Access Here](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html)
     - Hemingway App - [Access Here](https://hemingwayapp.com)
     - ProseLint: A linter for prose - [Access Here](http://proselint.com)
+    - Writefull - [Access Here](https://writefull.com)
     
     
 
@@ -97,6 +98,7 @@
     - Deadly Sins of the Modern Data Scientist - [Access Here](https://psu-psychology.github.io/Psych-Grad-Resources/deadly_sins.html)
     - So, thus, therefore, and henice in English - [Access Here](https://jakubmarian.com/so-thus-therefore-and-hence-in-english/)
     - Criteria - singular or plural - [Access Here](https://jakubmarian.com/criteria-singular-or-plural/)
+    - Leading Questions, an excerpt from Yes, Prime Minister - [Access Here](https://www.youtube.com/watch?v=G0ZZJXw4MTA)
     
     
 
