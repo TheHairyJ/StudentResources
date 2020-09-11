@@ -11,8 +11,8 @@
     
   - **Computing**
     - You may require to stray into more generic computer science literature. Using these rankings may steer you towards more reputable work.
-      - Google Scholar ranking [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
-      - Core Conferences ranking [Access Here](http://portal.core.edu.au/conf-ranks/)
+      - Google Scholar ranking - [Access Here](https://scholar.google.be/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
+      - Core Conferences ranking - [Access Here](http://portal.core.edu.au/conf-ranks/)
   
 - **Non-academic**
   - Outside academia cybersecurity professionals document a whole host of different concepts and ideas.
@@ -36,27 +36,29 @@
     - Research Methods for Cyber Security - [Access Here](https://www.elsevier.com/books/research-methods-for-cyber-security/edgar/978-0-12-805349-2)
     - Thesis Whisperer's guide to picking the right topic - [Access Here](https://thesiswhisperer.com/2010/10/13/5-ways-to-know-you-have-the-right-thesis-topic/)
     - DIY's Fast Idea Generator - [Access Here](https://diytoolkit.org/tools/fast-idea-generator/)
+    - How to Read a Legal Opinion - [Access Here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1160925)
 
 ## Writing
-- **Spelling, Grammar and Phrases**
-  - Resources related to the fundamentals of writing.
+- **Spelling and Grammar**
+  - Avoid spelling and grammar errors!
     - Grammarly - [Access Here](https://grammarly.com)
+    - cut_the_crap.py - [Access Here](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html)
+    - Hemingway App - [Access Here](https://hemingwayapp.com)
+    - ProseLint: A linter for prose - [Access Here](http://proselint.com)
+    - Writefull - [Access Here](https://writefull.com)
+- **Phrasebanks**
+  - Unsure how to phrase something? These may help.
     - University of Manchester's repository of phrases to start sentences - [Access Here](http://www.phrasebank.manchester.ac.uk)
     - Ref-n-write's repository of report writing phrases - [Access Here](http://www.ref-n-write.com/trial/how-to-write-a-research-paper-academic-phrasebank-vocabulary/)
-    - Academic Word List - [Access Here](https://www.victoria.ac.nz/lals/resources/academicwordlist)
     - Springer's Useful Phrases for Writing Research Papers - [Access Here](https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190)
     - 40 Useful Words and Phrases for Top-Notch Essays - [Access Here](https://www.oxford-royale.com/articles/words-phrases-good-essays.html)
     - Coherence: Linking words and phrases - [Access Here](https://emedia.rmit.edu.au/learninglab/sites/default/files/Coherence_linking_words_2014_Accessible.pdf)
     - University of Edinburgh's repository of directive words - [Access Here](http://www.docs.hss.ed.ac.uk/iad/Student_resources/Writing/IAD_directive_words_CC_2018.pdf)
     - Instruction verbs in essay questions - [Access Here](https://www.kent.ac.uk/ai/ask/documents/step_1_Instruction_verbs.pdf)
-    - SANS guide to brevity - [Access Here](https://twitter.com/likethecoins/status/1099013747849527296)
+ - **Misc.**
+    - Find synonyms with Power Theosaurus - [Access Here](https://www.powerthesaurus.org)
     - Which vs. That: How to Choose - [Access Here](https://www.grammarly.com/blog/which-vs-that/)
-    - cut_the_crap.py - [Access Here](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html)
-    - Hemingway App - [Access Here](https://hemingwayapp.com)
-    - ProseLint: A linter for prose - [Access Here](http://proselint.com)
-    - Writefull - [Access Here](https://writefull.com)
-    
-    
+    - Google's Technical Writing Courses - [Access Here](developers.google.com/tech-writing)
 
 - **Academic Research Writing**
   - Resources realted to the specifics of research writing.
@@ -116,9 +118,11 @@
     - Box - [Access Here](https://www.box.com/en-gb/home)
     - GitHub - [Access Here](https://github.com)
 
-- **Bookmarks and References**
+- **Bookmarks**
   - Doesn't generate references but useful for herding links not related to your paper
     - Pinboard - [Access Here](https://pinboard.in)
+
+- **References**
   - Keeping track of your biblography youself is like herding cats, use a reference manager instead!
     - JabRef - [Access Here](http://www.jabref.org)
     - Zotero - [Access Here](https://www.zotero.org)
@@ -138,8 +142,6 @@
     - Trello - [Access Here](https://trello.com/en-GB)
     - Germ.io - [Access Here](https://germ.io)
     
-    
-
 ## Further Resources
 
 - **Data Visualisation**
@@ -156,6 +158,7 @@
     - Lucidchart - [Access Here](https://www.lucidchart.com/pages/)
     - Data to Viz - [Access Here](https://www.data-to-viz.com/)
     - R Graph Gallery - [Access Here](https://www.r-graph-gallery.com/)
+    - Intro to Regression Course - [Acess Here](https://www.introregression.org/)
   
 - **Topology Diagrams**
   - Show the reader your network!
@@ -163,7 +166,6 @@
     - Creately - [Access Here](https://creately.com)
     - Gliffy - [Access Here](https://www.gliffy.com)
     
-
 - **Poster Presentation**
   - A good project deserves a good poster!
     - Thesis Whisperer's 5 ways to poster = fail - [Access Here](https://thesiswhisperer.com/2011/05/19/5-ways-to-poster-fail/)
