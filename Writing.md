@@ -30,6 +30,7 @@
     	- Add your own libary integration to Google Scholar - [Access Here](https://scholar.google.co.uk/scholar_settings#2)
     - Microsoft Academic - [Access Here](https://academic.microsoft.com)
     - Arxiv Sanity Preserver - [Access Here](http://arxiv-sanity.com)
+    - Connected Papers - [Access Here](https://www.connectedpapers.com/)
 
 - **Misc.**
   - Additional Materials
